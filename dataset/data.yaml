@@ -1,0 +1,30 @@
+train:
+  - ../78_DT_Danang2-0048/Images
+  - ../99_NuiThanh_Danang-0016/Images
+  - ../104_NuiThanh_Danang-0190/Images
+  - ../111_LTNghi_Danang-0096/Images
+  - ../111_LTNghi_Danang-0112/Images
+  - ../112_LTNghi_Danang-0069/Images
+  - ../146_HV_TKy_QNam-0034/Images
+  - ../426 HV_TamKy_QNam-0018/Images
+  - ../552 TNV_Danang-0009/Images
+  - ../552 TNV_Danang-0012/Images
+  - ../552 TNV_Danang-0018/Images
+  - ../552 TNV_Danang-0028/Images
+  - ../552 TNV_Danang-0168/Images
+  - ../DHK_Danang-00xx/Images
+  - ../DHK_Danang-00xx1/Images
+  - ../DHK_Danang-00xx2/Images
+val:
+  - ../DHK_Danang-1078/Images
+  - ../HBS_TKy_QNam-0016/Images
+  - ../HBS_TKy_QNam-0026/Images
+  - ../HBSon_TamKy_QNam-0027/Images
+test:
+  - ../DHK_Danang-1078/Images
+  - ../HBS_TKy_QNam-0016/Images
+  - ../HBS_TKy_QNam-0026/Images
+  - ../HBSon_TamKy_QNam-0027/Images
+
+nc: 1
+names: ['Solar']
