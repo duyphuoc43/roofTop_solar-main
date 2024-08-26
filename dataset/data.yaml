@@ -1,30 +1,30 @@
 train:
-  - ../78_DT_Danang2-0048/Images
-  - ../99_NuiThanh_Danang-0016/Images
-  - ../104_NuiThanh_Danang-0190/Images
-  - ../111_LTNghi_Danang-0096/Images
-  - ../111_LTNghi_Danang-0112/Images
-  - ../112_LTNghi_Danang-0069/Images
-  - ../146_HV_TKy_QNam-0034/Images
-  - ../426 HV_TamKy_QNam-0018/Images
-  - ../552 TNV_Danang-0009/Images
-  - ../552 TNV_Danang-0012/Images
-  - ../552 TNV_Danang-0018/Images
-  - ../552 TNV_Danang-0028/Images
-  - ../552 TNV_Danang-0168/Images
-  - ../DHK_Danang-00xx/Images
-  - ../DHK_Danang-00xx1/Images
-  - ../DHK_Danang-00xx2/Images
+  - ../78_DT_Danang2-0048/images
+  - ../99_NuiThanh_Danang-0016/images
+  - ../104_NuiThanh_Danang-0190/images
+  - ../111_LTNghi_Danang-0096/images
+  - ../111_LTNghi_Danang-0112/images
+  - ../112_LTNghi_Danang-0069/images
+  - ../146_HV_TKy_QNam-0034/images
+  - ../426 HV_TamKy_QNam-0018/images
+  - ../552 TNV_Danang-0009/images
+  - ../552 TNV_Danang-0012/images
+  - ../552 TNV_Danang-0018/images
+  - ../552 TNV_Danang-0028/images
+  - ../552 TNV_Danang-0168/images
+  - ../DHK_Danang-00xx/images
+  - ../DHK_Danang-00xx1/images
+  - ../DHK_Danang-00xx2/images
 val:
-  - ../DHK_Danang-1078/Images
-  - ../HBS_TKy_QNam-0016/Images
-  - ../HBS_TKy_QNam-0026/Images
-  - ../HBSon_TamKy_QNam-0027/Images
+  - ../DHK_Danang-1078/images
+  - ../HBS_TKy_QNam-0016/images
+  - ../HBS_TKy_QNam-0026/images
+  - ../HBSon_TamKy_QNam-0027/images
 test:
-  - ../DHK_Danang-1078/Images
-  - ../HBS_TKy_QNam-0016/Images
-  - ../HBS_TKy_QNam-0026/Images
-  - ../HBSon_TamKy_QNam-0027/Images
+  - ../DHK_Danang-1078/images
+  - ../HBS_TKy_QNam-0016/images
+  - ../HBS_TKy_QNam-0026/images
+  - ../HBSon_TamKy_QNam-0027/images
 
 nc: 1
 names: ['Solar']
